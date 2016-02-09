@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "apiciilibrorvmxq00apicuoft_0110.png"; bbox 0 0 1046 1552; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 811 315 997 753">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 811 315 997 753">
+     <span class='ocr_line' id='line_1_1' title="bbox 811 315 997 753"><span class='ocrx_word' id='word_1_1' title='bbox 811 315 997 501; x_wconf 93' lang='lat'>·</span> <span class='ocrx_word' id='word_1_2' title='bbox 964 570 979 606; x_wconf 75' lang='grc'>..,</span> <span class='ocrx_word' id='word_1_3' title='bbox 981 671 983 673; x_wconf 88' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 964 743 991 753; x_wconf 25' lang='lat' dir='ltr'>„v</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 812 569 836 746; baseline 177 -177"><span class='ocrx_word' id='word_1_5' title='bbox 812 569 836 619; x_wconf 52' lang='lat' dir='ltr'>mnf}</span> <span class='ocrx_word' id='word_1_6' title='bbox 812 644 836 746; x_wconf 45' lang='lat' dir='ltr'>vinum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 553 0 749">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 553 0 749">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 553 0 749"><span class='ocrx_word' id='word_1_7' title='bbox 0 553 0 749; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 44 58 748 1515">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 44 58 748 1515">
+     <span class='ocr_line' id='line_1_4' title="bbox 44 58 748 1515"><span class='ocrx_word' id='word_1_8' title='bbox 44 58 748 1515; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
